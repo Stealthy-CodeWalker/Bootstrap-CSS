@@ -6,3 +6,11 @@
     padding: 5px;
     width: 150px;
 }
+body
+{
+    background-image: url("./SRM.png");
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
